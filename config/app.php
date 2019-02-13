@@ -165,7 +165,6 @@ return [
         /*
          * Package Service Providers...
          */
-//        RevoSystems\iOSPassKit\iOSPassKitServiceProvider::class,
 
         /*
          * Application Service Providers...
