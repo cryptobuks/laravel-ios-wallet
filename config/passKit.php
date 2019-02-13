@@ -1,9 +1,7 @@
 <?php
 
 use App\Business;
-use App\GiftCard;
-use App\User;
-use App\Voucher;
+use Illuminate\Foundation\Auth\User;
 use RevoSystems\iOSPassKit\Models\PassKitDevice;
 
 return [
